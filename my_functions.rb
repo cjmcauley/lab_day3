@@ -16,8 +16,8 @@ def find_item(array, item)
   for houses in array
     if houses == item
     return true
+    end
   end
-end
     return false
 end
 
